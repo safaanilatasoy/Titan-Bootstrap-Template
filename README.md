@@ -1,2 +1,2 @@
 # Titan-Bootsrap-Template
- This template created with boostrap v5.1
+ This template created with bootstrap v5.1
